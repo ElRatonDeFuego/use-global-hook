@@ -1,6 +1,9 @@
 {
-  "version": "0.2.1",
+  "version": "0.2.1-1",
   "author": "andregardi",
+  "contributors": [
+    "ElRatonDeFuego <github@david.cho-lerat.com>"
+  ],
   "name": "use-global-hook",
   "license": "MIT",
   "private": true,
@@ -37,5 +40,6 @@
   },
   "bugs": {
     "url": "https://github.com/andregardi/use-global-hook/issues"
-  }
+  },
+  "main": "src/core/index.js"
 }
